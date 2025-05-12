@@ -18,13 +18,13 @@ This repo contains a UK Postcode Validation and Verify Numbers Program.
 git clone git clone https://github.com/mrbraiant/python-puzzles.git
 ```
 
-1.1 For Postcode Validation Program:
+1.1. For Postcode Validation Program:
 
 ```
 cd python-puzzles/UK\ Postcode\ Validation
 ```
 
-1.2 For Verify Numbers Program:
+1.2. For Verify Numbers Program:
 
 ```
 cd VerifyNumbers
