@@ -27,7 +27,7 @@ cd python-puzzles/UK\ Postcode\ Validation
 - For Verify Numbers Program:
 
 ```
-cd VerifyNumbers
+cd python-puzzles/VerifyNumbers
 ```
 
 2. Create a virtual environment (optional but recommended).
