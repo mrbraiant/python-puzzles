@@ -25,8 +25,8 @@ The program checks whether the postcode entered by the user is valid and returns
 1. Clone this repository in your local machine.
 
 ```
-git clone https://github.com/yourusername/postcode-validator.git
-cd postcode-validator
+git clone git clone https://github.com/mrbraiant/python-puzzles.git
+cd python-puzzles/UK\ Postcode\ Validation
 ```
 
 2. Create a virtual environment (optional but recommended).
@@ -36,13 +36,14 @@ python3 -m venv venv
 ```
 
 3. Activate the virtual environment.
-   \*on Windows
+
+- on Windows
 
 ```
 venv\Scripts\activate
 ```
 
-\*on On Mac/Linux:
+- on On Mac/Linux:
 
 ```
 source venv/bin/activate
